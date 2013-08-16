@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.scalanlp:chalk:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/chalk/jars/chalk-1.2.0.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/chalk/docs/chalk-1.2.0-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/chalk/srcs/chalk-1.2.0-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>

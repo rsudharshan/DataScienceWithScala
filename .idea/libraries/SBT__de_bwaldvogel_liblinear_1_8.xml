@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: de.bwaldvogel:liblinear:1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.bwaldvogel/liblinear/jars/liblinear-1.8.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.bwaldvogel/liblinear/docs/liblinear-1.8-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.bwaldvogel/liblinear/srcs/liblinear-1.8-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>

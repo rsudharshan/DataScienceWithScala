@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: gov.nist.math:jama:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/gov.nist.math/jama/jars/jama-1.0.2.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/gov.nist.math/jama/docs/jama-1.0.2-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/gov.nist.math/jama/srcs/jama-1.0.2-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.scalanlp:nak:1.1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/nak/jars/nak-1.1.3.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/nak/docs/nak-1.1.3-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scalanlp/nak/srcs/nak-1.1.3-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>
