@@ -29,10 +29,19 @@ class LogisticRegression(n: Int) {
         // not necessary for learning
         lik += label * Math.log(classify(x)) + (1 - label) * Math.log(1 - classify(x));
       }
-      println("iteration: " + n + " " + Arrays.toString(weights) + " mle: " + lik);
+      println("iteration: " + i + " " + weights.toString + " mle: " + lik);
     }
   }
 
+
+  def classify(x:Array[Int]):Double={
+      var logit=0.0;
+    for(i <- 0 until weights.length)
+    {
+      logit += weights(i) * x(i)
+    }
+    sigmoid(logit)
+  }
 
 }
 

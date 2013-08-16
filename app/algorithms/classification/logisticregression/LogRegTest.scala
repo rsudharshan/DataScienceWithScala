@@ -7,9 +7,14 @@ package algorithms.classification.logisticregression
  */
 object LogRegTest extends App {
 
-  val l = LogisticRegression(5)
-  println(l.sigmoid(1.0))
+  val logistic = LogisticRegression(5)
 
   val listOfInstances=DataSet.readDataSet()
-  l.train(listOfInstances)
+  logistic.train(listOfInstances)
+
+  val x:Array[Int] = Array(2, 1, 1, 0, 1)
+  println("prob(1|x) = " + logistic.classify(x))
+  val x2:Array[Int] = Array(1, 0, 1, 0, 0)
+  println("prob(1|x2) = " + logistic.classify(x2))
+
 }
