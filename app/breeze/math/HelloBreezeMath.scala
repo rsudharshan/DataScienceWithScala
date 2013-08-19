@@ -9,7 +9,4 @@ object HelloBreezeMath extends App {
 
       val x=DenseVector.zeros[Double](5)
       println(x)
-
-
-
 }

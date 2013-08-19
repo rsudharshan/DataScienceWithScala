@@ -42,8 +42,4 @@ object HelloBreeze extends App {
 
   println("Vector manipulation and Matrix manipulation")
 
-
-
-
-
 }
