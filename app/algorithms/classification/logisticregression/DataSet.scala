@@ -15,7 +15,7 @@ class DataSet {
 object DataSet {
   def readDataSet(): List[Instance] = {
 
-    val lines = Source.fromFile("/home/home/code/DataScienceWithScala/app/algorithms/classification/datasets/regression_dataset.txt").getLines.toList
+    val lines = Source.fromFile("app/algorithms/classification/datasets/regression_dataset.txt").getLines.toList
 
     val listOfInstances = lines.map(line => {
       val Fvector = line.split("\\s+").map(_.toInt)
